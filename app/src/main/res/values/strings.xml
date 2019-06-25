@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieDBRecyclerview</string>
+
+    <string name="api_key">ec067956bcd6ac32f62ff0a1a4828dfb</string>
+
+    <string name="title">Captain America</string>
+    <string name="movie_poster">Movie Poster</string>
+</resources>
